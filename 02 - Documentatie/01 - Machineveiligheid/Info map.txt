@@ -1,0 +1,4 @@
+Voor het bepalen van de machine veiligheid dienen de volgende stappen te worden doorlopen:
+
+1. Risicoanalyse opstellen, gevaren bepalen en reduceren
+2. Productbeoordeling aan de hand van de machinerichtlijn, de machine moet hier aan voldoen voor SAT
